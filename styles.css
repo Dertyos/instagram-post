@@ -1,0 +1,48 @@
+body {
+    display: flex;
+    background-color: black;
+    align-content: center;
+    justify-content: center;
+    margin-top: 10vh;
+}
+
+.post {
+    height: 80vh;
+    width: 60vh;
+    background-color: white;
+    padding: 5px;
+    
+}
+.cabeza {
+    display: inline-flex;
+    
+    width: 98.8%;
+}
+
+
+#htmlicon {
+    
+    margin-top: 9px;
+    margin-right: 8px;
+    padding-left: 5px;
+}
+
+#options { 
+    margin-left: 72%;
+    float: inline-end;
+    
+    color: black;
+    margin-top: 10px;
+}
+.imagen {
+    width: 100%;
+    margin-top: 10px;
+    border: solid 1px green;
+}
+
+#paisaje {
+    
+    width: 100%;
+}
+
+.ico
