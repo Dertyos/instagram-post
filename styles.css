@@ -7,42 +7,70 @@ body {
 }
 
 .post {
-    height: 80vh;
-    width: 60vh;
+    height: auto;
+    width: 50vh;
     background-color: white;
     padding: 5px;
-    
+    font-family: 'Caveat', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+
 }
+
 .cabeza {
     display: inline-flex;
+    margin-top: 5px;
+    width: 50vh;
     
-    width: 98.8%;
 }
 
 
 #htmlicon {
-    
+
     margin-top: 9px;
     margin-right: 8px;
     padding-left: 5px;
 }
 
-#options { 
-    margin-left: 72%;
-    float: inline-end;
-    
+#options {
+    margin-left: 37.6vh;
+
+
     color: black;
     margin-top: 10px;
 }
+
 .imagen {
     width: 100%;
     margin-top: 10px;
-    border: solid 1px green;
+
 }
 
 #paisaje {
-    
+
     width: 100%;
 }
 
-.ico
+.icons {
+    display: inline-flex;
+    margin: 13px;
+
+}
+
+.iconsleft {
+
+    width: 37vh;
+    
+}
+
+#icon1, #icon2, #icon3 {
+    padding-right: 10px;
+}
+.iconsright {
+    padding-left: 7.5vh;
+
+}
+
+.descripcion {
+    padding: 10px;
+}
